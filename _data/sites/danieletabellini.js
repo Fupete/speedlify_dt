@@ -15,7 +15,7 @@ module.exports = {
 	urls: [
 		"https://danieletabellini.com/",
 		"https://danieletabellini.com/it/",
-		"https://danieletabellini.com/en/"
+		"https://danieletabellini.com/en/",
 		"https://danieletabellini.com/it/idee/",
 		"https://danieletabellini.com/en/ideas/",
 		// Popular Posts
