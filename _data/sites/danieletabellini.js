@@ -13,9 +13,9 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://www.danieletabellini.com/",
-		"https://www.danieletabellini.com/it/idee/",
-		"https://www.danieletabellini.com/en/ideas/",
+		"https://danieletabellini.com/",
+		"https://danieletabellini.com/it/idee/",
+		"https://danieletabellini.com/en/ideas/",
 		// Popular Posts
 		"https://danieletabellini.com/it/idee/progettare-con-qualita/",
 	]
