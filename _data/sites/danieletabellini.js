@@ -1,6 +1,6 @@
 module.exports = {
 	name: "danieletabellini.com", // optional, falls back to object key
-	description: "Daniele’s Personal web site",
+	description: "Daniele’s personal web site",
 	// skip if localhost
 	// skip if this is a new fork of the speedlify (not Zach’s)
 	// skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
@@ -18,6 +18,8 @@ module.exports = {
 		"https://danieletabellini.com/en/",
 		"https://danieletabellini.com/it/idee/",
 		"https://danieletabellini.com/en/ideas/",
+		"https://danieletabellini.com/it/tags/",
+		"https://danieletabellini.com/en/tags/",
 		// Popular Posts
 		"https://danieletabellini.com/it/idee/progettare-con-qualita/",
 	]
