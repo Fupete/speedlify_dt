@@ -22,5 +22,7 @@ module.exports = {
 		"https://danieletabellini.com/en/tags/",
 		// Popular Posts
 		"https://danieletabellini.com/it/idee/progettare-con-qualita/",
+		"https://danieletabellini.com/en/ideas/verso-design-system-italia/",
+		"https://danieletabellini.com/it/idee/verso-design-system-italia/",
 	]
 };
